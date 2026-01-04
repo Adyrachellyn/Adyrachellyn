@@ -6,12 +6,12 @@ A passionate student who aims to develop digital solutions that act as the answe
 
 ---
 
-### 🚀 What I'm Doing Now
+### What I'm Doing Now?
 * 🏫 Currently studying **Information Systems** to bridge the gap between business and technology.
 * 🛠️ Building modern web applications using **Next.js, Tailwind CSS, and Supabase**.
 * 📈 Interested in **Business Development** and how tech products can solve social issues.
 
-### 🛠️ My Digital Toolkit
+### My Digital Toolkit!
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -20,10 +20,9 @@ A passionate student who aims to develop digital solutions that act as the answe
 
 ---
 
-### ✨ Beyond Coding
-* 🌍 Passionate about **Social Problems, Education, and Gender Issues**.
+### Beyond Coding(?)
+*  Passionate about **Social Problems, Education, and Gender Issues**.
 * ☕ Coffee enthusiast & minimalist design explorer.
-* 🍒 Fun fact: A proud **Huge 1D fan** forever.
 
 ### 📫 Reach Out
 * **LinkedIn**: [adyra-rachellyn](https://www.linkedin.com/in/adyra-rachellyn/)
